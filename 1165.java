@@ -24,9 +24,9 @@ public class MyClass {
     }
     }
     if(c == 2){
-        	System.out.printf("%d eh primo.\n", x);
+        	System.out.printf("%d é primo.\n", x);
     }else {
-        	System.out.printf("%d nao eh primo.\n", x);
+        	System.out.printf("%d não é primo.\n", x);
             }
         }
     }
